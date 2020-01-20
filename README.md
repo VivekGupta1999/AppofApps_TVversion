@@ -7,14 +7,14 @@
  4) A Web Mapping service with an option to save daily destinations to save time as well as stops addig option so one can add stops while going to main destination
 following are some Screenshots
 
-                               This is the login page with option to register
+                                   This is the login page with option to register
 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.42.44%20AM.png)
 
-                               This is a private To do list for users This is the main homepage after login having different options
+                                         This is the main HOMEPAGE
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.43.26%20AM.png)
 
-                      This is the game main page with three difficulty levels and last one a multiplayer option
+                       This is a private To do list for users This is the main homepage after login having different options
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.43.40%20AM.png)
  
                                               This is the music list page u can add more too 
