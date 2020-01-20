@@ -11,17 +11,17 @@ following are some Screenshots
 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.42.44%20AM.png)
 
-                              This is the main homepage after login having different options
+                               This is a private To do list for users This is the main homepage after login having different options
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.43.26%20AM.png)
 
                       This is the game main page with three difficulty levels and last one a multiplayer option
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.43.40%20AM.png)
  
-                                             This is the Game PONG!
+                                              This is the music list page u can add more too 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.04%20AM.png)
 
 
-                                        This is a private To do list for users
+                                         This is the musicplayer Page 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.18%20AM.png)
 
                           This is the Web Mapping service with an extra option to save destination
@@ -30,10 +30,8 @@ following are some Screenshots
                                           This is the saved Destination page 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.57%20AM.png)
 
-                                   This is the music list page u can add more too 
+                                    
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.45.23%20AM.png)
 
-                                             This is the musicplayer Page 
-![test image size]()
 
                                                 THANK YOU
