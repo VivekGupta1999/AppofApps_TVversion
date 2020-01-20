@@ -24,13 +24,13 @@ following are some Screenshots
                                          This is the musicplayer Page 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.18%20AM.png)
 
-                          This is the Web Mapping service with an extra option to save destination
+                                This is the Difficulty Level Page For the TV
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.45%20AM.png)
 
-                                          This is the saved Destination page 
+                                             This is the Game 
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.44.57%20AM.png)
 
-                                    
+                                          This is the Maps Page
 ![test image size](https://github.com/VivekGupta1999/AppofApps_TVversion/blob/master/screenshots/Screen%20Shot%202020-01-20%20at%205.45.23%20AM.png)
 
 
